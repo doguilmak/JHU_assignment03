@@ -46,17 +46,6 @@ The dropdown menu should take up the entire width of the browser window. Make su
 11.  Create a single really tall section that will use the Bootstrap Grid and take up the entire width of the browser window (minus some margins, of course) for all views: desktop, tablet, and mobile. To make the section really tall, you can either fill it out with a LOT of text or simply set its height to something like 1000px. It needs to be tall enough to cause scrolling down to be required to view the bottom of the section. Make sure its background color is set to distinguish it from the rest of the content. (_Hint: don't forget to have an element with a class='container' or class='container-fluid' wrapping your grid. Remember that to have the grid do something "always", i.e., no matter what browser window size, use the `col-xs-`... classes. In this case, since we want the section to take up the entire row, use `col-xs-12`._)
 
 
-Both the tablet view and the desktop view of what's graded and required is the same. Here is the mockup illustration of the desktop & tablet version of the site (only required graded parts shown):
-
- ![Desktop and Tablet](images/desktop.png)
-
-
-Here is the mockup illustration of the mobile view (only required graded parts are shown):
-
- ![mobile collapsed](images/menu-collapsed.png)
-
- ![mobile expanded](images/mobile-expanded.png)
-
 
 **&#42;&#42;&#42; REQUIRED GRADED ASSIGNMENT ENDS HERE &#42;&#42;&#42;**  
 <br>
@@ -93,21 +82,3 @@ For a visual reference of this view, see the tablet mockup illustration below.
 For a visual reference of this view, see the mobile mockup illustration below.
 
 8.  (OPTIONAL, NOT GRADED) Link the menu items "Chicken", "Beef", "Sushi" from the mobile-only menu drop down to jump to the part of the page those sections correspond to.
-
-
-
-**MOCKUP ILLUSTRATIONS ARE BELOW:**
-
-**Please NOTE: these mockup illustrations show parts that are optional and not graded for this assignment. Please refer to the requirements above to confirm what parts of the mockup are required and graded and what parts are optional.**
-
-Here is the mockup illustration of the desktop version of the site: ![Desktop - optional](images/desktop-optional.png)
-
-Here is the mockup illustration of the tablet version of the site:   
-
-![Tablet - optional](images/tablet-optional.png)
-
-
-Here is the mockup illustration of the mobile version of the site with the menu dropdown NOT open (on the left) and menu drop down open (on the right):
-
-![Mobile - Optional (Closed)](images/mobile-optional-collapsed.png)
-![Mobile - Optional (Open)](images/mobile-optional-expanded.png)
